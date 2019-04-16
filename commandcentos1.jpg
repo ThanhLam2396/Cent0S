@@ -1,0 +1,3 @@
+﻿lscpu : Xem nhanh thông số cpu
+w : xem thời gian uptime
+nproc : xem thông tin core
